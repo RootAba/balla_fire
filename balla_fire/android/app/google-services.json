@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209837717722",
+    "project_id": "ballafire-861ed",
+    "storage_bucket": "ballafire-861ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209837717722:android:7362def05dd21f46fd4de3",
+        "android_client_info": {
+          "package_name": "com.example.balla_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209837717722-sv45u5fbhi0l7e27ge2fir8hmjqshkv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3V1isr81Nt8Jn_B2GkpM6rxjR1VdbbxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209837717722-sv45u5fbhi0l7e27ge2fir8hmjqshkv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
